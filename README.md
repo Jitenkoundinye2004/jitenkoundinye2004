@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiten Dhananjay Koundinye</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenkoundinye2004&label=Profile%20views&color=0e75b6&style=flat" alt="jitenkoundinye2004" /> </p>
 
