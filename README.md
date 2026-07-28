@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile(1).png" width="180" alt="Jiten Koundinye"/>
+  <img src="profile (1).png" width="180" alt="Jiten Koundinye"/>
   
   # 👋 Hi, I’m Jiten Koundinye
   
