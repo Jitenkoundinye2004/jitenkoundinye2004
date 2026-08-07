@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitenkoundinye2004" alt="jitenkoundinye2004" /></a> </p>
 
-- 🔭 I’m currently working on [Prosearch](https://www.prosearch.co.in/)
 
 - 🌱 I’m currently learning **Java, Spring Boot, System Design, DSA and AI Engineering**
 
